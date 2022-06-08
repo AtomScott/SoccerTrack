@@ -13,13 +13,13 @@ This paper proposes SoccerTrack, a dataset set consisting of GNSS and bounding b
 
 ### Training Data
 
-{% include train_data.html %}
+<!-- {% include train_data.html %} -->
 
 
 ### Test Data(Full)
 
-{% include test_data_full.html %}
+<!-- {% include test_data_full.html %} -->
 
 ### Test Data(Split)
 
-{% include test_data_split.html %}
+<!-- {% include test_data_split.html %} -->
