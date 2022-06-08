@@ -21,7 +21,7 @@ url: "https://atomscott.github.io/SoccerTrack" # the base hostname & protocol fo
 github_url: 'https://github.com/AtomScott/SoccerTrack'
 rtd_url: 'https://soccertrack.readthedocs.io/'
 download_url: "#download"
-paper_url: "#paper"
+paper_url: "https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Scott_SoccerTrack_A_Dataset_and_Tracking_Algorithm_for_Soccer_With_Fish-Eye_CVPRW_2022_paper.pdf"
 
 # Build settings
 markdown: kramdown
