@@ -38,6 +38,7 @@ https://user-images.githubusercontent.com/22371492/172512368-9f4adfb5-e7aa-4abb-
 
 | Date | Drone | Fisheye |
 |------|-------|---------|
-| 2022/6/20 | 15min | 15min   |
-| 2022/7/1  | 20min | 20min   |
-| 2022/8/1  | 30min | 30min   |
+| 2022/6/20 | 10min | 10min   |
+| 2022/7/1  | 15min | 15min   |
+| 2022/8/1  | 20min | 20min   |
+| 2022/9/1  | 30min | 30min   |
