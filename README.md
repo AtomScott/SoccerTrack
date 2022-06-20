@@ -1,26 +1,28 @@
-# SoccerTrack (TBA 06/20)
+# SoccerTrack
 
 ![](https://raw.githubusercontent.com/AtomScott/SoccerTrack/gh-pages/img/title-banner.png)
 
 [![Documentation Status](https://readthedocs.org/projects/soccertrack/badge/?version=latest)](https://soccertrack.readthedocs.io/en/latest/?badge=latest) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b121ddfb4e244b6d88096840bdcfa1a2)](https://www.codacy.com/gh/AtomScott/SoccerTrack/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AtomScott/SoccerTrack&amp;utm_campaign=Badge_Grade)
 
+> 🥳 **NEWS** 🥳
+> 
+> The first release of the SoccerTrack Datataset is ready for [download](https://atomscott.github.io/SoccerTrack/#download)!! 
 
 A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 
 
 * [Project page](https://atomscott.github.io/SoccerTrack/)
 * [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Scott_SoccerTrack_A_Dataset_and_Tracking_Algorithm_for_Soccer_With_Fish-Eye_CVPRW_2022_paper.pdf)
+* [Dataset Download](https://atomscott.github.io/SoccerTrack/#download) 🌟 NEW
 * ~~[Tracking Algorithm](https://github.com/AtomScott/SoccerTrack/tree/develop)~~(Work In Progress)
 * ~~[Documentation](https://soccertrack.readthedocs.io/)~~ (Work In Progress)
-* ~~[Dataset Download](https://atomscott.github.io/SoccerTrack/#download)~~ (Work In Progress)
 
-> **Note**
-> 
-> We are finalizing code and dataset for release by June 20th (Workshop date for CVSports'22)!  
+
+We are still finalizing the code + models checkpoints for release. See the development branches to check our progress.
 
 ## Dataset Preview
 
-Below are low resoltion samples from the dataset we plan to release. The actual dataset will contain 4K (drone) and 8K (fisheye) footage!
+Below are low resoltion samples from the SoccerTrack dataset. The actual dataset containa 4K (top-view) and 8K (wide-view) footage!
 
 <img width="586" alt="image" src="https://user-images.githubusercontent.com/22371492/172513053-68ef75c4-435a-40e6-96fb-5a75319e32d6.png">
 
@@ -42,3 +44,19 @@ https://user-images.githubusercontent.com/22371492/172512368-9f4adfb5-e7aa-4abb-
 | 2022/7/1  | 15min | 15min   |
 | 2022/8/1  | 20min | 20min   |
 | 2022/9/1  | 30min | 30min   |
+
+## Contributing
+
+See the [Contributing Guide](https://soccertrack.readthedocs.io/en/latest/contributing.html) for more information.
+
+## Citation
+```
+@inproceedings{scott2022soccertrack,
+  title={SoccerTrack: A Dataset and Tracking Algorithm for Soccer With Fish-Eye and Drone Videos},
+  author={Scott, Atom and Uchida, Ikuma and Onishi, Masaki and Kameda, Yoshinari and Fukui, Kazuhiro and Fujii, Keisuke},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3569--3579},
+  year={2022}
+}
+```
+
