@@ -11,15 +11,12 @@ This paper proposes SoccerTrack, a dataset set consisting of GNSS and bounding b
 
 ## Download
 
-### Training Data
+The SoccerTrack Dataset is available to download from the links below!
+
+* [Top-view](https://drive.google.com/drive/folders/12rasAk-52YSAwReJNIlTZIa794UhRU4J?usp=sharing)
+* [Wide-view](https://drive.google.com/drive/folders/1XgrPHBYnz-LOB2vZsB4koVUMgjl_gwqF?usp=sharing)
+* [GNSS data](https://drive.google.com/drive/folders/15i4GJ1Rl5rwnOOuHv34Ar1K8wxKifnIJ?usp=sharing)
 
 <!-- {% include train_data.html %} -->
-
-
-### Test Data(Full)
-
 <!-- {% include test_data_full.html %} -->
-
-### Test Data(Split)
-
 <!-- {% include test_data_split.html %} -->
