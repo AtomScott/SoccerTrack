@@ -14,8 +14,8 @@ A Dataset and Tracking Algorithm for Soccer with Fish-eye and Drone Videos.
 * [Project page](https://atomscott.github.io/SoccerTrack/)
 * [Paper](https://openaccess.thecvf.com/content/CVPR2022W/CVSports/papers/Scott_SoccerTrack_A_Dataset_and_Tracking_Algorithm_for_Soccer_With_Fish-Eye_CVPRW_2022_paper.pdf)
 * [Dataset Download](https://atomscott.github.io/SoccerTrack/#download) 🌟 NEW
-* ~~[Tracking Algorithm](https://github.com/AtomScott/SoccerTrack/tree/develop)~~(Work In Progress)
-* ~~[Documentation](https://soccertrack.readthedocs.io/)~~ (Work In Progress)
+* [Tracking Algorithm](https://github.com/AtomScott/SoccerTrack) (Work In Progress)
+* [Documentation](https://soccertrack.readthedocs.io/) (Work In Progress)
 
 
 We are still finalizing the code + models checkpoints for release. See the development branches to check our progress.
